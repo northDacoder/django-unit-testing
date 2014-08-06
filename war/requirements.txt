@@ -1,3 +1,4 @@
+## The following requirements were added by pip --freeze:
 Django==1.6.5
 Pillow==2.5.1
 South==1.0
